@@ -1,0 +1,4 @@
+# Netlify: tayyor statik sayt, yig'ish (build) kerak emas
+[build]
+  publish = "."
+  command = ""
